@@ -1,0 +1,18 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# quocyuchi - 粵拼詞庫
+#
+# Source: https://github.com/CanCLID/rime-cantonese-upstream
+
+---
+name: quocyuchi
+version: "2025.04.14"
+sort: by_weight
+vocabulary: essay-cantonese
+import_tables:
+  - quocyuchi.chars
+  - quocyuchi.words
+  - quocyuchi.phrase
+  - quocyuchi.maps
+...
