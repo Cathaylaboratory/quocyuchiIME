@@ -7,18 +7,4 @@ customization:
 patch:
   "menu/page_size": 8
   schema_list:
-    - {schema: yt6pix3}
-    - {schema: "nguphing-romazy"}
-    - {schema: thungyung2}
-    - {schema: sampig}
-    - {schema: newhannom}
-    - {schema: wenzhounese}
-    - {schema: yahweseh}
-    - {schema: yahwe_zaonhe2}
-    - {schema: qiannairong}
-    - {schema: old_nyingpo}
-    - {schema: nyingpo_romanization}
-    - {schema: shupin_cendu}
-    - {schema: luna_pinyin}
-    - {schema: lumoz}
     - {schema: quocyuchi}
