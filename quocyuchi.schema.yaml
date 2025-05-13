@@ -125,8 +125,12 @@ speller:
     - derive/ooi([zsfrxj])$/ui$1/
     - derive/oon([zsfrxj])$/un$1/
     - derive/oot([zsfrxj])$/ut$1/
+    - derive/inh([zsfrxj])$/ing$1/
+    - derive/enh([zsfrxj])$/eng$1/
+    - derive/anh([zsfrxj])$/ang$1/
     - derive/^yeu/yiu/
     - derive/^yeu/yieu/
+    - derive/^oa/yoa/
     - derive/^ka/ca/
     - derive/^ku/cu/
     - derive/^ko/co/
@@ -134,6 +138,7 @@ speller:
     - derive/^ph/f/
     - derive/^th/t/
     - derive/^k/g/
+    - derive/^d/dd/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
 
     - derive/([zsfrxj])$//
