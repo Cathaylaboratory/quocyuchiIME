@@ -109,10 +109,15 @@ speller:
     - derive/oo([zsfrxj])$/u$1/                
     - derive/y(zsfrxj])$/i$1/    
     - derive/ieu([zsfrxj])$/iu$1/     
+    - derive/ieu([zsfrxj])$/ieeu$1/   
     - derive/ien([zsfrxj])$/in$1/
+    - derive/ien([zsfrxj])$/ieen$1/
     - derive/iem([zsfrxj])$/im$1/ 
-    - derive/iet([zsfrxj])$/it$1/    
+    - derive/iem([zsfrxj])$/ieem$1/
+    - derive/iet([zsfrxj])$/it$1/  
+    - derive/iet([zsfrxj])$/ieet$1/   
     - derive/iep([zsfrxj])$/ip$1/  
+    - derive/iep([zsfrxj])$/ieep$1/ 
     - derive/ich([zsfrxj])$/ic$1/ 
     - derive/ach([zsfrxj])$/ac$1/           
     - derive/uongw([zsfrxj])$/uong$1/         
@@ -129,7 +134,9 @@ speller:
     - derive/enh([zsfrxj])$/eng$1/
     - derive/anh([zsfrxj])$/ang$1/
     - derive/^yeu/yiu/
+    - derive/^yeu/yeeu/
     - derive/^yeu/yieu/
+    - derive/^yeu/yieeu/
     - derive/^oa/yoa/
     - derive/^ka/ca/
     - derive/^ku/cu/
